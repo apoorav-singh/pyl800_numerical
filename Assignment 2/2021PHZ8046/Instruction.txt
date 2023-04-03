@@ -1,0 +1,39 @@
+Linux System
+-------------*
+
+-----------------@
+Jupyter Notebook |
+-----------------@
+
+First open the terminal and update the system,
+
+Then type
+
+>> pip install jupyter-notebook
+
+Jupyter notebook would be installed to your system. Then run the jupyter notebook using the bash terminal,
+
+>> jupyter-notebook
+
+Jupyter notebook would be initialized. Now navigate to the the directory of the python program using GUI of the Jupyter notebook.
+
+Rest, GUI is quite intuitive. If still any issue with jupyter notebook, You can contact me.
+
+
+
+---------------------@
+Python Code execution|
+---------------------@
+
+Enter the directory in which code is placed. Then open terminal in that directory and,
+
+>> python3 file_name.py
+
+
+***********----------------***********----------------***********----------------***********----------------***********----------------***********----------------
+
+
+MacOSx/Windows System
+---------------------*
+
+Use Anaconda community version. It comes with the package and nice GUI where Jupyter notebook (for jupyter notebook) and spyder IDE (normal python code) is included.
